@@ -1,0 +1,10 @@
+@"
+Assets/imported_assets/Real Stars Skybox/
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+*.bin
+*.log
+"@ | Out-File -Encoding utf8 .gitignore
